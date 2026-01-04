@@ -80,8 +80,11 @@ projet_hadoop_cinema_trends_nlp_sangare/
 Le Dashboard Streamlit (Python) exécuté sur le nœud Master agit comme une interface de visualisation. Il consomme exclusivement les résultats agrégés produits par les traitements Hive et MapReduce stockés dans HDFS.
 
 ---
-
+16.2_dashboard_web_nlp.png
 
 <p align="center">
   <img src="3_Captures_Execution_Requete_Hive/16_dashboard_web.png" alt="16_dashboard_web.png" width="900" />
+</p>
+<p align="center">
+  <img src="3_Captures_Execution_Requete_Hive/16.2_dashboard_web_nlp.png" alt="16.2_dashboard_web_nlp.png" width="900" />
 </p>
