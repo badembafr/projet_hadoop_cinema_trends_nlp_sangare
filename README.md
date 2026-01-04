@@ -15,9 +15,9 @@ Ce projet a été réalisé dans le cadre du module "Cadre Logiciel pour le Big 
 
 L'application est actuellement hébergée et fonctionnelle sur le cluster GCP. Aucune installation n'est nécessaire pour la tester.
 
-* **Application en ligne (Dashboard) :** `http://34.121.158.103:8501/`
-* **Vidéo de démonstration :** `https://www.youtube.com/watch?v=Y4SRKIWIckA`
-* **Dépôt GitHub (Code source) :** `https://github.com/badembafr/projet_hadoop_cinema_trends_nlp_sangare`
+* **Application en ligne (Dashboard) :** [http://34.121.158.103:8501/](http://34.121.158.103:8501/)
+* **Vidéo de démonstration :** [https://www.youtube.com/watch?v=Y4SRKIWIckA](https://www.youtube.com/watch?v=Y4SRKIWIckA)
+* **Dépôt GitHub (Code source) :** [https://github.com/badembafr/projet_hadoop_cinema_trends_nlp_sangare](https://github.com/badembafr/projet_hadoop_cinema_trends_nlp_sangare)
 
 ## Conformité avec le Sujet
 
